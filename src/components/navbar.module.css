@@ -1,0 +1,25 @@
+.navbar{
+    width: 100%;
+    color: black;
+    height: 60px;
+
+    border: 3px solid rgb(234, 10, 10);
+    background-color: black;
+}
+.logo{
+    color: white;
+    font-family: cursive;
+    background-color:#ec38bc;
+}
+.navbtn{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.btn1{
+    color: white;
+}
+.btndiv{
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
